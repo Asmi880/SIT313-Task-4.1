@@ -1,0 +1,11 @@
+.TopBanner p {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.TopBanner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,21 @@
+.CustomBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CustomBar p {
+    padding: 10px 50px;
+}
+
+.CustomBar input {
+    margin: 10px 10px;
+    padding: 10px;
+    border-radius: 23px;
+    width: 40%;
+}
+
+.CustomBar button {
+    border-radius: 20px;
+    padding: 10px 20px;
+}

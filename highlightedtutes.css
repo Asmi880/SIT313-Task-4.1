@@ -1,0 +1,11 @@
+.customBtmSection p {
+    color: #333; 
+    font-size: 40px;
+    font-weight: 600; 
+}
+
+.customBtmSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

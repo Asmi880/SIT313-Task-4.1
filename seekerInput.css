@@ -1,0 +1,36 @@
+.Seeker_input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(28, 27, 27);
+    color: whitesmoke;
+}
+
+.Seeker_input p {
+    margin: 20px 40px;
+    font-weight: 600;
+}
+
+.Seeker_input p:hover {
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 4px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.Seeker_input input {
+    width: 50%;
+    margin-top: 10px;
+    border-radius: 8px;
+    padding: 10px;
+    transition: all 0.4s ease-in;
+}
+
+.Seeker_input input:hover {
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 20px;
+    border: 2px solid black;
+}
